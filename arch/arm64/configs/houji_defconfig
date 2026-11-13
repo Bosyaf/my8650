@@ -7564,9 +7564,6 @@ CONFIG_ARCH_USE_MEMTEST=y
 # CONFIG_MEMTEST is not set
 # end of Kernel Testing and Coverage
 
-CONFIG_OPLUS_CPU_FREQ_GOV_UAG=y
-CONFIG_OPLUS_BSP_GAME_OPT=y
-CONFIG_OPLUS_OMRG=y
 #
 # Rust hacking
 #
